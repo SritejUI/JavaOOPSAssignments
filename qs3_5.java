@@ -11,7 +11,7 @@ class Tester {
   }
 }
 
-public class qs3_4 {
+public class qs3_5 {
   public static void main(String[] args) {
       Tester t = new Tester();
       try {
